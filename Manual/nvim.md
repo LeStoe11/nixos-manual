@@ -6,8 +6,14 @@ a insert after cursor
 n next match
 N previous match
 
+leader = SPACE
+wq - safe and exit
+q - exit
+h,j,k,l - navigate panes
+
 Commands: 
 / search
+q! discard and exit
 
 [[Treescope]]
 [[Nvf]]
